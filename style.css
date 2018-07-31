@@ -1,0 +1,211 @@
+#landing{
+	border-top:0.3em dashed #ffe2f0;
+	border-bottom:0.3em dashed #ffe2f0;
+}
+
+.jumbotron{
+	background-color: #ffe2f0;
+}
+
+.btn-jumbotron {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #fff;
+    background-color: #ccc;
+    border: 0.1em solid #fff;
+}
+
+#services,
+#newslist{
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+#aboutus{
+    background-color:#f2f2f2;
+    color:#666;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    text-align: justify;
+}
+
+#aboutus a{
+    color: #666;
+}
+
+#aboutus p{
+    font-size: 18px;
+}
+
+.about-heading{
+    margin:0px 0px 15px 0px;
+    padding:0px;
+    font-size: 48px;
+}
+
+#newslist a{
+    color:#000;
+}
+
+#newslist a:hover, a:focus{
+    color: #ccc;
+}
+
+#whatsapp{
+	border: 0.1em solid #ffd6de;
+	padding: 10 50;
+	background-color: #fc1947;
+	color: #ffffff;
+}
+
+#product{
+	background-color: #ffe2f0 !important;
+}
+
+.thumbnail{
+	min-height: 380px;
+}
+.thumbnail > img{
+	height: 165px;
+}
+
+.caption > h3{
+	margin-top: 5px;
+}
+
+#whatsapp > a, a:hover{
+	text-decoration: none;
+	color: #cccccc;
+}
+
+.button-contact{
+	background-color: #fc1947 !important;
+	color: #ffd6de;
+}
+
+.nav-pills > li.active > a, 
+.nav-pills > li.active > a:hover, 
+.nav-pills > li.active > a:focus {
+    color: #ffffff;
+    background-color: #fc1947;
+}
+
+.nav > li > a {
+	text-decoration: none;
+	color : #111111;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #111111;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    background-color:rgba(186,186,186,0.8);
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: #f2f2f2 !important;
+    background-image: none;
+    border: 1px solid #000 !important;
+    border-radius: 4px;
+}
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    background-color: #111111;
+    border-color: #f2f2f2;
+}
+
+.text-inverse {
+	color: #ffffff;
+}
+
+.text-shadow {
+	 text-shadow: 2px 2px #000;
+}
+
+.mynavbar-brand {
+    float: left;
+    padding: 8px 10px;
+    font-size: 18px;
+    line-height: 20px;
+    height: 50px;
+}
+
+.bgimg-cover {
+  background-image: url("images/cover-image.jpg");
+  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  min-height: 100%;
+  padding-bottom: 50px;
+}
+
+
+/*Price list*/
+
+.big-price span{
+	color: #333;
+	font-size:40px;
+}
+
+.btn-price{
+    background-color:#5db4c0;
+    color: #fff;
+    border-radius:50%; 
+	border:none;
+    padding:40px 20px; 
+    font-size: 13px;
+	font-weight: 600;
+	margin-top:20px;
+}
+
+.prices-box{
+	margin:20px 0px;
+}
+
+.top-content{
+	background-color:#4d4d4d;
+	padding:20px;
+}
+
+.bottom-content{
+	background-color:#f6f6f6;
+	padding:60px;
+}
+
+#prices h3{
+	color:#FFF;
+}
+
+#prices .features li{
+	padding:10px;
+}
+
+#prices .btn.btn-default{
+	margin:20px 0px;
+}
+
+#prices .features-border li{
+	border-top:1px solid #c7c7c7;
+	padding: 10px 0px;
+}
+
+#prices .features-border li:last-child{
+	border-bottom:1px solid #c7c7c7;
+}
